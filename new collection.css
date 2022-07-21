@@ -1,0 +1,18 @@
+.parent{ width: 1461px;
+    height: 500px;
+    right: 600px;
+    text-align: center;
+    
+    background-color:rgb(225, 215, 202, 100%)
+    
+
+}
+.child{
+    width: 130px;
+    position: absolute;right: 130px;top: 200px;;}
+    .num2{
+    text-align: center;
+    }
+    .num3{ 
+        position: absolute;  right: 50px;
+    }

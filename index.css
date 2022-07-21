@@ -1,0 +1,47 @@
+.gallery{
+margin: 10px;
+background: url(WhatsApp Image 2022-07-21 at 4.24.00 PM.jpg);
+border:2px;
+border-radius: 20px;
+width: 200px;
+height: 200px;
+display: inline-block;
+position: center;
+
+}
+h4{
+color: rgb(0, 0, 0);
+background-color: rgb(209, 193, 172);
+border: 4px; 
+border-radius: 20px;
+font-family: 'Prata';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+text-align: center;
+display: inline-block;
+}
+h2{
+    font-family: 'Prata';
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 22px;
+}
+.frame{
+background-color: rgb(255, 255, 255);
+width:700px;
+height: 300px;
+display: inline-block;
+position:center;
+}
+body{
+background-color: rgb(240, 214, 183);
+background-position: right bottom, left top;
+}
+.shape{
+background-color: rgb(172, 149, 122);
+width: auto;
+}
+
